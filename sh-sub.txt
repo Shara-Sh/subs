@@ -1,3 +1,5 @@
 vless://3d096f1b-dba3-4ffc-b4f8-2ca4fc94a005@ipbaz.apibaz.net:8443?security=tls&allowInsecure=0&encryption=none&type=ws&host=vbox.apibaz.net&path=/mexer&sni=vbox.apibaz.net&fp=chrome&alpn=h2,http/1.1#WEB-v8gslo9a
 vless://0939868a-664c-4283-bd0a-e1c2e4f1bd81@ipbaz.1234ip.info:443?security=tls&allowInsecure=0&encryption=none&type=grpc&sni=vbox.1234ip.info&fp=chrome&alpn=h2,http/1.1#GRPC-fd1ohtn9
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@ipbaz.ping-box.com:443?security=tls&allowInsecure=0&encryption=none&type=grpc&sni=vbox.ping-box.com&fp=chrome&alpn=h2,http/1.1#GRPC-pvag1kcj
+vless://696b15bf-9200-4c68-96fb-3662e726e533@87.248.154.238:52536?type=ws&path=%2F&host=&security=none#Hamgam-01-qorqs0yt
+vless://e7093c91-1880-4b20-9f93-cebc85edd00c@138.124.13.154:14341?type=tcp&encryption=none&path=%2F&host=zula.ir&headerType=http&security=none#Hamgam01-jt9uehai
