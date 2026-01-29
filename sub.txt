@@ -1,0 +1,7 @@
+vless://%40SEGVPN@gcre.segstar.info:10100?type=tcp&security=reality&pbk=2zN5MhusgST2q3NBD1gglc6xTaoTPP9Tmjb9k374QCw&fp=chrome&sni=refersion.com&spx=%2F&flow=xtls-rprx-vision#SEG3
+vless://9144e9ee-3ec2-4340-9b04-f7560b721747@v2shop10.bing-net.com:4910?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp&path=%2F#hypervpn-1m0c-322
+vless://e4312ce5-450a-4594-95da-972225ffad10@v2shop10.bing-net.com:4910?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp&path=%2F#hypervpn-1m0c-323
+vless://6a476fc4-5da8-4610-b09a-aeece54493e5@v2shop10.bing-net.com:4910?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp&path=%2F#hypervpn-1m0c-324
+vless://818f6097-6ace-4d37-8341-78beb294fbbc@v2shop13.bing-net.com:4913?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp&path=%2F#hypervpn-1m0c-325
+vless://818f6097-6ace-4d37-8341-78beb294fbbc@v2shop13.bing-net.com:4913?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp&path=%2F#hypervpn-1m0c-325
+vless://818f6097-6ace-4d37-8341-78beb294fbbc@v2shop13.bing-net.com:4913?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp&path=%2F#hypervpn-1m0c-325
