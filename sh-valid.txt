@@ -1,1 +1,2 @@
 vless://3d096f1b-dba3-4ffc-b4f8-2ca4fc94a005@ipbaz.apibaz.net:8443?security=tls&allowInsecure=0&encryption=none&type=ws&host=vbox.apibaz.net&path=/mexer&sni=vbox.apibaz.net&fp=chrome&alpn=h2,http/1.1#WEB-v8gslo9a
+vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.us.f2gate.ir:64335?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#@Hddify2
